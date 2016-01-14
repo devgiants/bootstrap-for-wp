@@ -1,12 +1,11 @@
 <?php
 /*
-Plugin Name: LCH Bootstrap
+Plugin Name: Bootstrap For Wordpress
 Plugin URI: http://getbootstrap.com/
 Description: Include Bootstrap
 Version: 1.0
-Author: LCH
-Author URI: http://www.compagnie-hyperactive.com
-License: Copyright
+Author: Nicolas BONNIOT
+Author URI: http://devgiants.fr
 Text Domain: bootstrap
 */
 
