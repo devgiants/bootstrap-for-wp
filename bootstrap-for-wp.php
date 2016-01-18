@@ -12,7 +12,7 @@ Text Domain: bootstrap
 
 function bootstrap_scripts()
 {
-    wp_enqueue_style('bootstrap-core', plugins_url('css/bootstrap.min.css', __FILE__));
+    wp_enqueue_style('bootstrap', plugins_url('css/bootstrap.min.css', __FILE__));
     wp_enqueue_script('bootstrap', plugins_url('js/bootstrap.min.js', __FILE__), array('jquery'), null, true);
 }
 
